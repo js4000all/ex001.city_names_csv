@@ -9,13 +9,14 @@
 
 平均：0.249sec
 
-思ったより全然速い。。
-
 
 
 ## app_from_py.py
 
 pythonファイルにリテラルとして書く。
+
+平均：0.134sec
+
 
 ## app_from_pickle.py
 
